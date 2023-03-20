@@ -1,4 +1,4 @@
-
+<!-- Meower Svelte, the app itself. -->
 <script>
 import CloudlinkClient from 'cl.js';
 
