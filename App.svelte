@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <script>
 import CloudlinkClient from 'cl.js';
 
